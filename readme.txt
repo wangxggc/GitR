@@ -7,3 +7,5 @@ add2
 Master
 
 This dev add
+
+使用Stash功能之后从master中添加的一句话，Bug修复
